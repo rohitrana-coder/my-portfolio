@@ -1,0 +1,45 @@
+
+import Footer from './footer';
+import './App.css';
+function About() {
+      
+  return (
+    <>
+
+<section class="about-section">
+  <div class="about-container">
+    
+    
+    <div class="about-image">
+      <img src="img/rohit.png" alt="Rohit Thakur"/>
+    </div>
+    
+
+    <div class="about-content">
+      <h2>About Me</h2>
+      <p>
+        Hi, I'm <strong>Rohit Thakur</strong>, a passionate <strong>Frontend Developer</strong>.  
+        I love creating modern, responsive, and user-friendly websites using 
+        <strong>HTML, CSS, JavaScript, Bootstrap, and React</strong>.
+      </p>
+      <p>
+        My focus is always on <em>clean design</em>, <em>smooth user experience</em>, 
+        and <em>performance</em>. I’m also learning new technologies to become a 
+        <strong>Full-Stack Developer</strong>.
+      </p>
+      <p>
+        Beyond coding, I enjoy <strong>boxing</strong> and exploring the latest tech trends.  
+      </p>
+      <a href="#contact" class="btn">Contact Me</a>
+    </div>
+
+  </div>
+</section>
+
+
+<Footer/>
+
+  </>
+  );
+}
+export default About;
