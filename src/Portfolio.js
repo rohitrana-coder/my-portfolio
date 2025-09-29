@@ -14,7 +14,7 @@ function Portfolio() {
             <div className="portfolio-content">
               <h3>My Portfolio</h3>
               <p>This personal portfolio you are currently viewing, built using React.</p>
-              <a href="#home" className="btn">
+              <a href="https://rohitrana-coder.github.io/my-portfolio" className="btn">
                 View Portfolio
               </a>
             </div>
