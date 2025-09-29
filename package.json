@@ -2,7 +2,7 @@
   "name": "nature",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rohitrana-coder.github.io/my-portfolio",
+"homepage": "https://rohitrana-coder.github.io/my-portfolio",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^7.0.0",
     "@fortawesome/free-brands-svg-icons": "^7.0.0",
