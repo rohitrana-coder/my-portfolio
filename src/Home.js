@@ -27,7 +27,8 @@ function Home() {
           </div>
         </div>
         <div className=" image">
-          <img src="img/rohit.png" alt="rohit image" />
+         <img src={process.env.PUBLIC_URL + "/img/rohit.png" }alt="rohit image" />
+
         </div>
       </div>
       {/* <p  id='secondpage'></p> */}

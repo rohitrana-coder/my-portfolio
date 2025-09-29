@@ -11,11 +11,11 @@ function About() {
     
     
     <div class="about-image">
-      <img src="img/rohit.png" alt="Rohit Thakur"/>
+         <img src={process.env.PUBLIC_URL + "/img/rohit.png" }alt="rohit image" />
     </div>
     
 
-    <div class="about-content">
+    <div class="about-content">.
       <h2>About Me</h2>
       <p>
         Hi, I'm <strong>Rohit Thakur</strong>, a passionate <strong>Frontend Developer</strong>.  

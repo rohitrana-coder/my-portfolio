@@ -1,3 +1,4 @@
+import Footer from "./footer";
 function Portfolio() {
   return (
     <>
@@ -48,6 +49,7 @@ function Portfolio() {
         </div>
       </div>
     </section>
+    <Footer/>   
     </>
   );
 }

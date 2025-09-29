@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
+
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Header from './Header';
 import reportWebVitals from './reportWebVitals';
@@ -11,7 +12,7 @@ import Contact from './Contact';
 import Portfolio from './Portfolio';
 import NoPage from './NoPage';
 import Work from "./Work";
-
+  
 export default function App() {
   return (
     <BrowserRouter>
