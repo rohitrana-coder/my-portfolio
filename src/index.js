@@ -15,7 +15,7 @@ import Work from "./Work";
   
 export default function App() {
   return (
-       <BrowserRouter basename="/Home">
+       <BrowserRouter basename="Home/">
       
   <Header/>
 
