@@ -15,12 +15,11 @@ import Work from "./Work";
   
 export default function App() {
   return (
-<<<<<<< HEAD
-          <BrowserRouter basename="/my-portfolio">
 
-=======
+          
+
        <BrowserRouter basename="/my-portfolio">
->>>>>>> 707cb04 (Updated Contact page, About, Portfolio, and styles)
+
       
   <Header/>
 
