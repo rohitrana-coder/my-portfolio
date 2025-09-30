@@ -58,9 +58,9 @@ function Contact() {
           <p>Have a project, job offer or just want to say hi? Fill the form — I usually reply within 24–48 hours.</p>
 
           <div className="contact-info">
-            <p><b>Email:</b> you@yourdomain.com</p>
-            <p><b>Phone:</b> +91 98765 43210</p>
-            <p><b>Location:</b> Your City, Country</p>
+            <p><b>Email:</b> rohitrana9992@gmail.com.com</p>
+            <p><b>Phone:</b> +91 9817266952</p>
+            <p><b>Location:</b> Panchkula,Haryana,India</p>
           </div>
         </div>
 
