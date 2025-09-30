@@ -747,7 +747,7 @@ bottom: 600px;
   .fourttextarea {
    width: 200px;
      margin-top: 10px;
-    padding: 0 10px;
+    padding: 0 0px;
     /* margin-left: 75px; */
     /* background-color: red; */
   }
@@ -755,7 +755,7 @@ bottom: 600px;
   .fourthdiv button {
     width: 120px;
     font-size: 14px;
-    
+  
   }
 }
 

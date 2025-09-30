@@ -34,7 +34,6 @@ function About() {
    <a href="tel:+919817266952"  class="btn">
     <i class="fas fa-phone"></i> Contact Me
   </a>
-=======
       <a href="tel:+919817266952"  class="btn">
     <i class="fas fa-phone"></i> Contact Me
   </a>
