@@ -634,7 +634,7 @@ bottom: 600px;
   outline: none;
 }
 .fourthdiv button {
-  margin-left: 700px;
+  margin-left: 250px;
   width: 150px;
   margin-top: 80px;
   padding: 10px;
@@ -755,6 +755,7 @@ bottom: 600px;
   .fourthdiv button {
     width: 120px;
     font-size: 14px;
+    
   }
 }
 
@@ -1071,6 +1072,14 @@ transform: rotate(40deg);
 }
 
 
+<<<<<<< HEAD
+=======
+
+
+
+
+
+>>>>>>> 707cb04 (Updated Contact page, About, Portfolio, and styles)
 /* Contact Page Wrapper */
 .contact-wrapper {
   max-width: 1000px;
@@ -1213,4 +1222,7 @@ transform: rotate(40deg);
     flex-direction: column;
   }
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 707cb04 (Updated Contact page, About, Portfolio, and styles)

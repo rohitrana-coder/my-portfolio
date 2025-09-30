@@ -30,9 +30,16 @@ function About() {
       <p>
         Beyond coding, I enjoy <strong>boxing</strong> and exploring the latest tech trends.  
       </p>
+<<<<<<< HEAD
    <a href="tel:+919817266952"  class="btn">
     <i class="fas fa-phone"></i> Contact Me
   </a>
+=======
+      <a href="tel:+919817266952"  class="btn">
+    <i class="fas fa-phone"></i> Contact Me
+  </a>
+   
+>>>>>>> 707cb04 (Updated Contact page, About, Portfolio, and styles)
     </div>
 
   </div>
